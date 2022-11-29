@@ -7,10 +7,10 @@ body {
 }
 
 h1 {
-    font-size: 15rem;
+    font-size: 12rem;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .letter {
-    transition: color 1000ms;
+    transition: color 750ms;
 }
